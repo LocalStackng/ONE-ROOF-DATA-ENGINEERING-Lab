@@ -6,8 +6,9 @@ Some business questions where also answered from Data Engineering perspective.
 The assignment reinforced the principle that data should be understood and validated before it is loaded into a production or analytical environment.  
 A very good way to start data engineering mentorship class.
 
-Repository Structure  
-The repository contains the SQL queries and outputs used during the assignment.  
+**Repository Structure**  
+The repository contains the SQL queries and corresponding questions answered from a data engineering perspective.  
+  
 Database name == **PortOps**  
 Table names
 * Berth
